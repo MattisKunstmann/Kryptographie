@@ -1,0 +1,8 @@
+Aufgabe 8 (3) - Verschlüsseln
+• Eine Textdatei soll eingelesen werden.
+• Eine Schlüsseldatei soll eingelesen werden.
+• Der Inhalt der Textdatei soll mit dem Inhalt der Schlüsseldatei
+symmetrisch verschlüsselt werden.
+• Es soll das Verschlüsselungsverfahren AES verwendet werden.
+• Der verschlüsselte Code soll in einer neuen Datei gespeichert
+werden.
